@@ -5,7 +5,7 @@
 // @icon         https://cdn.myanimelist.net/s/common/userimages/99ae7797-2a6b-4ef6-b7da-c8d02dcd57ce_225w?s=69b58a93b7324d532b50383b191f5b8b
 // @include      https://*tribalwars*
 // @run-at       document-start
-// @updateURL    https://cdn.jsdelivr.net/gh/ImKumin/KuminScripts/KuminAntiTrack.user.js
+// @updateURL    https://github.com/ImKumin/KuminScripts/raw/main/KuminAntiTrack.user.js
 // ==/UserScript==
 
 runKuminAntiTrack();
