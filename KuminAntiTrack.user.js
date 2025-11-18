@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Kumin Anti Track
 // @author       Im Kumin
-// @version      1.1
+// @version      1.2
 // @icon         https://cdn.myanimelist.net/s/common/userimages/99ae7797-2a6b-4ef6-b7da-c8d02dcd57ce_225w?s=69b58a93b7324d532b50383b191f5b8b
 // @include      https://*tribalwars*
 // @run-at       document-start
